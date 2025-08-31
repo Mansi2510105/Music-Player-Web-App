@@ -1,4 +1,44 @@
 {
-    "title" : "Bollywood Mush",
-    "description" : "Chill with Bollywood songs playing in background"
+    "songs": [
+        {
+            "title": "Brave Sample 1",
+            "file": "Brave_Sample 1.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Brave Sample 2",
+            "file": "Brave_Sample 2.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Cash 2 Sample 4",
+            "file": "Cash 2_Sample 4.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Cash Sample 3",
+            "file": "Cash_Sample 3.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Hanging Motionless Sample 5",
+            "file": "Hanging Motionless_Sample 5.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Long Distance Sample 6",
+            "file": "Long Distance_Sample 6.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Numb Sky Sample 7",
+            "file": "Numb Sky_Sample 7.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Swimming In A Fish Bowl Sample 8",
+            "file": "Swimming In A Fish Bowl_Sample 8.mp3",
+            "cover": "cover.jpg"
+        }
+    ]
 }

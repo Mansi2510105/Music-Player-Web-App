@@ -1,0 +1,58 @@
+{
+    "playlists": [
+        {
+            "name": "CS",
+            "path": "CS",
+            "title": "Happy Hits!",
+            "description": "Hits to boost your mood and fill you with happiness"
+        },
+        {
+            "name": "CS-2",
+            "path": "CS-2",
+            "title": "Peaceful Piano",
+            "description": "Relax and indulge with beautiful piano pieces"
+        },
+        {
+            "name": "CS-3",
+            "path": "CS-3",
+            "title": "Workout Beats",
+            "description": "High-energy tracks for your workout."
+        },
+        {
+            "name": "NCS",
+            "path": "NCS",
+            "title": "deep focus",
+            "description": "Keep calm and focus with ambient and post-rock music"
+        },
+        {
+            "name": "NCS-2",
+            "path": "NCS-2",
+            "title": "This is Yo Yo Honey Singh",
+            "description": "The essential Tracks, all in one playlist"
+        },
+        {
+            "name": "NCS-3",
+            "path": "NCS-3",
+            "title": "Old is Gold",
+            "description": "Soulful Hindi songs for your nostalgic Journey"
+        },
+        {
+            "name": "NCS-4",
+            "path": "NCS-4",
+            "title": "Bollywood Mush",
+            "description": "Chill with Bollywood songs playing in background"
+        },
+        {
+            "name": "NCS-5(Copy)",
+            "path": "NCS-5(Copy)",
+            "title": "Bollywood Mush",
+            "description": "Chill with Bollywood songs playing in background"
+        },
+        {
+            "name": "NCS-6(Copy)",
+            "path": "NCS-6(Copy)",
+            "title": "Bollywood Mush",
+            "description": "Chill with Bollywood songs playing in background"
+        }
+    ]
+}

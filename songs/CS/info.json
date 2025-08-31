@@ -1,4 +1,29 @@
 {
-    "title" : "Happy Hits!",
-    "description" : "Hits to boost your mood and fill you with happiness"
+    "songs": [
+        {
+            "title": "Brave 2",
+            "file": "Brave 2.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Call me Samba",
+            "file": "Call me Samba.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Cash 1",
+            "file": "Cash 1.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Hit the Dancefloor",
+            "file": "Hit the Dancefloor.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Joyful Whistle",
+            "file": "Joyful Whistle.mp3",
+            "cover": "cover.jpg"
+        }
+    ]
 }

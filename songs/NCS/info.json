@@ -1,4 +1,34 @@
 {
-    "title" : "deep focus",
-    "description" : "Keep calm and focus with ambient and post-rock music"
+    "songs": [
+        {
+            "title": "Deep Relaxing Music",
+            "file": "Deep Relaxing Music.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Empty Cup",
+            "file": "Empty Cup.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Rain and Tears",
+            "file": "Rain and Tears.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Rain and Thunder",
+            "file": "Rain and Thunder.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Rain Dance",
+            "file": "Rain Dance.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Sleepy Rain",
+            "file": "Sleepy Rain.mp3",
+            "cover": "cover.jpg"
+        }
+    ]
 }

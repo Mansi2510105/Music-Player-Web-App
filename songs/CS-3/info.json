@@ -1,4 +1,34 @@
 {
-    "title" : "Workout Beats",
-    "description" : "High-energy tracks for your workout."
+    "songs": [
+        {
+            "title": "Cyberpunk",
+            "file": "Cyberpunk.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Hard Boom",
+            "file": "Hard Boom.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Space Club",
+            "file": "Space Club.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Stay to my Beat",
+            "file": "Stay to my Beat.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Techno Beat Loop",
+            "file": "Techno Beat Loop.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Workout Motivation",
+            "file": "Workout Motivation.mp3",
+            "cover": "cover.jpg"
+        }
+    ]
 }

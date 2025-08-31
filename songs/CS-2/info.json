@@ -1,4 +1,19 @@
 {
-    "title" : "Peaceful Piano",
-    "description" : "Relax and indulge with beautiful piano pieces"
+    "songs": [
+        {
+            "title": "Coming Home",
+            "file": "Coming Home.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Lost in a dream",
+            "file": "Lost in a dream.mp3",
+            "cover": "cover.jpg"
+        },
+        {
+            "title": "Timeless",
+            "file": "Timeless.mp3",
+            "cover": "cover.jpg"
+        }
+    ]
 }
